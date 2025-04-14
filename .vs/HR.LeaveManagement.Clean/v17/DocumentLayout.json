@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:57:56.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
