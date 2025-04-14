@@ -18,6 +18,36 @@
           }
         }
       },
+      "FluentValidation/11.11.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.11.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.11.0",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MediatR/12.5.0": {
         "type": "package",
         "dependencies": {
@@ -116,6 +146,48 @@
         "icon.png",
         "lib/net8.0/AutoMapper.dll",
         "lib/net8.0/AutoMapper.xml"
+      ]
+    },
+    "FluentValidation/11.11.0": {
+      "sha512": "cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "type": "package",
+      "path": "fluentvalidation/11.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.11.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.11.0": {
+      "sha512": "viTKWaMbL3yJYgGI0DiCeavNbE9UPMWFVK2XS9nYXGbm3NDMd0/L5ER4wBzmTtW3BYh3SrlSXm9RACiKZ6stlA==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
     "MediatR/12.5.0": {
@@ -262,27 +334,29 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 14.0.0",
+      "FluentValidation >= 11.11.0",
+      "FluentValidation.DependencyInjectionExtensions >= 11.11.0",
       "MediatR >= 12.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\0ds-smitsid\\.nuget\\packages\\": {},
+    "C:\\Users\\jaoliver\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jaoliver\\source\\repos\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
       "projectName": "HR.LeaveManagement.Domain",
-      "projectPath": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
-      "packagesPath": "C:\\Users\\0ds-smitsid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
+      "projectPath": "C:\\Users\\jaoliver\\source\\repos\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+      "packagesPath": "C:\\Users\\jaoliver\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jaoliver\\source\\repos\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\0ds-smitsid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaoliver\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -318,6 +392,14 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[14.0.0, )"
+          },
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.11.0, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[11.11.0, )"
           },
           "MediatR": {
             "target": "Package",

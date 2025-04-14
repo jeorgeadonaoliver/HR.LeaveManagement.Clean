@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\command\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\command\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypedetails\\getleavetypedetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypedetails\\getleavetypedetailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jaoliver\\source\\repos\\workforce management\\hr.leavemanagement.clean\\hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBoAAAAmAAAAAAAAAA==",
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T06:00:06.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetLeaveTypeDetailQuery.cs",
-              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypeDetails\\GetLeaveTypeDetailQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypeDetails\\GetLeaveTypeDetailQuery.cs",
-              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypeDetails\\GetLeaveTypeDetailQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypeDetails\\GetLeaveTypeDetailQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:28:19.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeaveTypeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:03:17.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LeaveTypeDto.cs",
-              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\LeaveTypeDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:07:27.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ILeaveTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "ToolTip": "C:\\Users\\jaoliver\\source\\repos\\WorkForce Management\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:20:13.179Z",
+              "WhenOpened": "2025-04-14T06:57:56.341Z",
               "EditorCaption": ""
             }
           ]
