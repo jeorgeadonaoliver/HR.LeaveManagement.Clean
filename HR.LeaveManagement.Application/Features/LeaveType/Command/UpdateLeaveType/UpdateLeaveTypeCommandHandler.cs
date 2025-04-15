@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR.LeaveManagement.Application.Contracts.Persistence;
+using HR.LeaveManagement.Application.Features.LeaveType.Command.CreateLeaveType;
 using MediatR;
 
 namespace HR.LeaveManagement.Application.Features.LeaveType.Command.UpdateLeaveType
@@ -24,6 +25,8 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Command.UpdateLeaveT
         {
 
             //validate incoming data
+            var validator = new UpdateLeaveTypeCommandValidator(_leaveTypeRepository);
+            var validatorResult = await validator.ValidateAsync(request);
 
             //convert to domain entity object
             var leaveTypeToUpdate = _mapper.Map<Domain.LeaveType>(request);
@@ -35,6 +38,11 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Command.UpdateLeaveT
 
             return Unit.Value;
 
+        }
+
+        private async Task<bool> LeaveTypeNameUnique(CreateLeaveTypeCommand command, CancellationToken token)
+        {
+            return await _leaveTypeRepository.IsLeaveTypeUnique(command.Name);
         }
     }
 }
