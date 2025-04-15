@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C77A5F23-083D-4E7B-8323-DD44E96DAB42}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.persistence\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77A5F23-083D-4E7B-8323-DD44E96DAB42}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.infrastructure\\hr.leavemanagement.persistence\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\command\\updateleavetype\\updateleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\command\\updateleavetype\\updateleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3A2E90-CCF1-4F7A-AAB8-886EE54EB745}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3A2E90-CCF1-4F7A-AAB8-886EE54EB745}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3A2E90-CCF1-4F7A-AAB8-886EE54EB745}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3A2E90-CCF1-4F7A-AAB8-886EE54EB745}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\persistence\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{E48E52F7-6759-45B2-93AF-0FFB9B7304B5}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C77A5F23-083D-4E7B-8323-DD44E96DAB42}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.persistence\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77A5F23-083D-4E7B-8323-DD44E96DAB42}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.infrastructure\\hr.leavemanagement.persistence\\repositories\\leavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application\\contracts\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA3A2E90-CCF1-4F7A-AAB8-886EE54EB745}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA3A2E90-CCF1-4F7A-AAB8-886EE54EB745}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C77A5F23-083D-4E7B-8323-DD44E96DAB42}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.persistence\\hr.leavemanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -63,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\command\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\command\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFC9756-2AF7-4AFF-BECB-A8D6451A99C6}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\command\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Configuration\\LeaveTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HR.LeaveManagement.Persistence\\Configuration\\LeaveTypeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -78,54 +86,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateLeaveTypeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandValidator.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandValidator.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:57:57.659Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LeaveRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "LeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:06:30.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeaveAllocationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:06:35.583Z",
+              "WhenOpened": "2025-04-15T09:06:26.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwAwAAAA8AAAA",
+              "Title": "GetLeaveTypesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:07:59.189Z",
+              "WhenOpened": "2025-04-15T11:48:11.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "LoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:41:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
@@ -133,12 +154,60 @@
               "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:02:50.818Z",
+              "WhenOpened": "2025-04-15T09:02:50.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:07:59.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveAllocationRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:06:35.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:54:22.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveRequestRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:06:30.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ILeaveTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveTypeRepository.cs",
@@ -151,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ILeaveRequestRepository.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
@@ -159,12 +228,11 @@
               "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveRequestRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:48:09.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:48:09.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "IGenericInterface.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericInterface.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericInterface.cs",
@@ -172,12 +240,11 @@
               "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\IGenericInterface.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:07:26.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:07:26.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ILeaveAllocationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
@@ -185,12 +252,11 @@
               "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Persistence\\ILeaveAllocationRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:07:18.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:07:18.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "LeaveType.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\LeaveType.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\LeaveType.cs",
@@ -198,25 +264,11 @@
               "RelativeToolTip": "HR.LeaveManagement.Domain\\LeaveType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:06:44.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:06:44.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LeaveTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\Repositories\\LeaveTypeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:06:26.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "IEmailSender.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
@@ -224,38 +276,23 @@
               "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Email\\IEmailSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:57:19.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T08:57:19.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InfrastructureServicesRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:54:22.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HR.LeaveManagement.Persistence",
+              "DocumentIndex": 15,
+              "Title": "HR.LeaveManagement.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
               "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
               "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T08:52:07.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T08:52:07.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "DeleteLeaveTypeCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
@@ -263,12 +300,11 @@
               "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAIBQwBwAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:46:37.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:46:37.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LeaveTypeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Configuration\\LeaveTypeConfiguration.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\Configuration\\LeaveTypeConfiguration.cs",
@@ -279,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CreateLeaveTypeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
@@ -287,21 +323,7 @@
               "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:09:31.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UpdateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Command\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T06:07:18.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T06:09:31.982Z"
             }
           ]
         }
