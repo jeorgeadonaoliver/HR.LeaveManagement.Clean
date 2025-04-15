@@ -24,8 +24,8 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Command.CreateLeaveT
                 .WithMessage("{PropertyName} is must be fewer than 70 character");
 
             RuleFor(p => p.DefaultDays)
-                .GreaterThan(100).WithMessage("{PropertyName} cannot exceed 100")
-                .LessThan(1).WithMessage("{PropertyName} cannot be less than 1");
+                .LessThan(100).WithMessage("{PropertyName} cannot exceed 100")
+                .GreaterThan(1).WithMessage("{PropertyName} cannot be less than 1");
 
             RuleFor(p => p)
                 .MustAsync(LeaveTypeNameUnique)
