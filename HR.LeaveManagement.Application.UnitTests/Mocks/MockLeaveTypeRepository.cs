@@ -13,6 +13,7 @@ namespace HR.LeaveManagement.Application.UnitTests.Mocks
     {
         public static Mock<ILeaveTypeRepository> GetLeaveTypeMockLeaveTypeRepository()
         {
+            //Create Dummy data for testing
             var leaveTypes = new List<LeaveType>
             {
                 new LeaveType
