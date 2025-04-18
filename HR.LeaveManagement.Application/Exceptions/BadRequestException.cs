@@ -10,13 +10,14 @@ namespace HR.LeaveManagement.Application.Exceptions
         }
         public BadRequestException(string message, ValidationResult validationResult) : base(message)
         {
-            ValidationErros = new();
-            foreach (var error in validationResult.Errors)
-            {
-                ValidationErros.Add(error.ErrorMessage);
-            }
+            ValidationErros = validationResult.ToDictionary();
+
+            //foreach (var error in validationResult.Errors)
+            //{
+            //    ValidationErros.Add(error.ErrorMessage);
+            //}
         }
 
-        public List<string>? ValidationErros { get; set; }
+        public IDictionary<string, string[]> ValidationErros { get; set; }
     }
 }

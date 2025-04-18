@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application.unittests\\features\\leavetype\\queries\\getleavetypedetailqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|solutionrelative:hr.leavemanagement.application.unittests\\features\\leavetype\\queries\\getleavetypedetailqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application.unittests\\mocks\\mockleavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|solutionrelative:hr.leavemanagement.application.unittests\\mocks\\mockleavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application.unittests\\features\\leavetype\\queries\\getleavetypeslistqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|solutionrelative:hr.leavemanagement.application.unittests\\features\\leavetype\\queries\\getleavetypeslistqueryhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.application.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECCF43A-53AE-45E1-9156-695F6554AC78}|HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|solutionrelative:hr.leavemanagement.application.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockLeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:57:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetLeaveTypeDetailQueryHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypeDetailQueryHandlerTest.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypeDetailQueryHandlerTest.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypeDetailQueryHandlerTest.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypeDetailQueryHandlerTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:38:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetLeaveTypesListQueryHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypesListQueryHandlerTest.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypesListQueryHandlerTest.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypesListQueryHandlerTest.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application.UnitTests\\Features\\LeaveType\\Queries\\GetLeaveTypesListQueryHandlerTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:16:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application.UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:21:28.984Z",
+              "EditorCaption": ""
             }
           ]
         }

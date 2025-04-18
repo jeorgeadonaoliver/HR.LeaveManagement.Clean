@@ -8,7 +8,7 @@ public class LeaveRequest : BaseEntity
 
     #region Notes
 
-    //this way, we can implement inner join statement uisng entityframework
+    //this way we can implement inner join statement uisng entityframework
     //even no relationship was made in the database level
     //we can implement it on the application side
 
