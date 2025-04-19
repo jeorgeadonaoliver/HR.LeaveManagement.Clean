@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "02b+HS9xmeyyfH+tuDMAnTO4lzwKdVGW9mASoQAB6XgS36207D4uSb2AEkfZ84ZEk7WtrQ5gulznhXxKvA2P5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jeorge Oliver\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

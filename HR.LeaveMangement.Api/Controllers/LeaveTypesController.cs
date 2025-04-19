@@ -44,25 +44,27 @@ namespace HR.LeaveMangement.Api.Controllers
             return CreatedAtAction(nameof(Get), new { id = response});
         }
 
-        //HttpPut("{id}")]
-        //[ProducesResponseType(StatusCode.Status204Content)]
-        //[ProducesResponseType(400)]
-        //[ProducesResponseType(StatusCode.Status404NotFound)]
-        //public async Task<ActionResult> Put(UpdateLeaveTypeCommand leaveTypeCommand) { 
+        [HttpPut("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<ActionResult> Put(UpdateLeaveTypeCommand leaveTypeCommand)
+        {
 
-        //    await _mediator.Send(leaveTypeCommand);
-        //    return NoContent();
-        //}
+            await _mediator.Send(leaveTypeCommand);
+            return NoContent();
+        }
 
-        //[HttpPut("{id}")]
-        //[ProducesResponseType(StatusCode.Status204Content)]
-        //[ProducesResponseType(400)]
-        //[ProducesResponseType(StatusCode.Status404NotFound)]
-        //public async Task<ActionResult> Put(int id)
-        //{
-        //    var command = new DeleteLeaveTypeCommand { Id = id };
-        //    await _mediator.Send(command);
-        //    return NoContent();
-        //}
+        // DELETE api/<LeaveTypesController>/5
+        [HttpDelete("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesDefaultResponseType]
+        public async Task<ActionResult> Delete(int id)
+        {
+            var command = new DeleteLeaveTypeCommand { Id = id };
+            await _mediator.Send(command);
+            return NoContent();
+        }
     }
 }
