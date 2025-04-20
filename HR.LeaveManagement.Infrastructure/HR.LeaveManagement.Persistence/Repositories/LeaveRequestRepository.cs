@@ -1,7 +1,7 @@
 ﻿using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Domain;
 using HR.LeaveManagement.Persistence.DatabaseContext;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace HR.LeaveManagement.Persistence.Repositories
 {

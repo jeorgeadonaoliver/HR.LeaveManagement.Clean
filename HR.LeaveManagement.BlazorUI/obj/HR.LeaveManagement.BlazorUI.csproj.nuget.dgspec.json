@@ -69,6 +69,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.5.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[8.0.15, )"
             }
           },
           "imports": [
@@ -145,9 +149,17 @@
               "target": "Package",
               "version": "[14.0.0, )"
             },
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[8.0.15, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
@@ -169,6 +181,10 @@
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             }
           },
           "imports": [

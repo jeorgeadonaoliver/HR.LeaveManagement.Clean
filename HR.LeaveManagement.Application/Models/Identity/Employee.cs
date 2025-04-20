@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Identity.Models.Identity
 {
-    internal class Employee
+    public class Employee
     {
+        public string Id { get; set; }
+
+        public string Email { get; set; }
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
     }
 }

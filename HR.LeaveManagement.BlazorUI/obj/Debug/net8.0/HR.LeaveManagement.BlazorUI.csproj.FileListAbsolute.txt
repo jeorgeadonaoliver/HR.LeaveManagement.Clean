@@ -1,10 +1,3 @@
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.AssemblyReference.cache
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.AssemblyInfoInputs.cache
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.AssemblyInfo.cs
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.CoreCompileInputs.cache
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.sourcelink.json
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
@@ -655,6 +648,13 @@ C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManag
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.AssemblyReference.cache
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.AssemblyInfoInputs.cache
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.AssemblyInfo.cs
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.CoreCompileInputs.cache
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.sourcelink.json
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\webcil\AutoMapper.wasm
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\webcil\FluentValidation.wasm
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\webcil\FluentValidation.DependencyInjectionExtensions.wasm
