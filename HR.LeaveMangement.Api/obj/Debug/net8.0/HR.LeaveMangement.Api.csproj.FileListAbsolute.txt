@@ -197,3 +197,7 @@ C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMange
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\obj\Debug\net8.0\HR.LeaveMangement.Api.pdb
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\obj\Debug\net8.0\HR.LeaveMangement.Api.genruntimeconfig.cache
 C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\obj\Debug\net8.0\ref\HR.LeaveMangement.Api.dll
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Jeorge Oliver\source\GitProjects\HR.LeaveManagement.Clean\HR.LeaveMangement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll

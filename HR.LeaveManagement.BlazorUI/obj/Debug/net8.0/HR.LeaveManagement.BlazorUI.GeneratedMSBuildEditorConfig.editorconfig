@@ -26,6 +26,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,12 +38,40 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/FormComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xGb3JtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Jeorge Oliver/source/GitProjects/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/_Imports.razor]

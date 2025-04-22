@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61E35B2C-37C3-49DD-84CF-17ED4B717F86}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.identity\\services\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61E35B2C-37C3-49DD-84CF-17ED4B717F86}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\services\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0445239D-CE20-4048-919E-D81E0603C3A7}|HR.LeaveMangement.Api\\HR.LeaveMangement.Api.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemangement.api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0445239D-CE20-4048-919E-D81E0603C3A7}|HR.LeaveMangement.Api\\HR.LeaveMangement.Api.csproj|solutionrelative:hr.leavemangement.api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61E35B2C-37C3-49DD-84CF-17ED4B717F86}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.identity\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E35B2C-37C3-49DD-84CF-17ED4B717F86}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{61E35B2C-37C3-49DD-84CF-17ED4B717F86}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E35B2C-37C3-49DD-84CF-17ED4B717F86}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0445239D-CE20-4048-919E-D81E0603C3A7}|HR.LeaveMangement.Api\\HR.LeaveMangement.Api.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemangement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0445239D-CE20-4048-919E-D81E0603C3A7}|HR.LeaveMangement.Api\\HR.LeaveMangement.Api.csproj|solutionrelative:hr.leavemangement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\pages\\leavetypes\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\pages\\leavetypes\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\pages\\leavetypes\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\pages\\leavetypes\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\jeorge oliver\\source\\gitprojects\\hr.leavemanagement.clean\\hr.leavemanagement.blazorui\\pages\\leavetypes\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3280011-D2B1-49CC-A5D3-D347CE05F333}|HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:hr.leavemanagement.blazorui\\pages\\leavetypes\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,102 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 173,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IdentityServicesRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\Services\\IdentityServicesRegistration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Services\\IdentityServicesRegistration.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\Services\\IdentityServicesRegistration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Identity\\Services\\IdentityServicesRegistration.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDcAAAAzAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\Services\\UserService.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:41:05.407Z",
+              "WhenOpened": "2025-04-22T06:22:43.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LeaveTypesController.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveMangement.Api\\Controllers\\LeaveTypesController.cs",
-              "RelativeDocumentMoniker": "HR.LeaveMangement.Api\\Controllers\\LeaveTypesController.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveMangement.Api\\Controllers\\LeaveTypesController.cs",
-              "RelativeToolTip": "HR.LeaveMangement.Api\\Controllers\\LeaveTypesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:38:05.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LeaveTypeService.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
-              "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwBEAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:33:26.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseHttpService.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
-              "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAgwCsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:30:35.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwDUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:24:23.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Program.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Program.cs",
               "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Program.cs",
               "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABKAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:22:31.618Z",
+              "WhenOpened": "2025-04-22T06:03:30.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:24:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveMangement.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "HR.LeaveMangement.Api\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveMangement.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "HR.LeaveMangement.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:12:46.96Z",
+              "WhenOpened": "2025-04-22T04:24:42.415Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Index.razor",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Index.razor",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Index.razor",
+              "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Index.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:20:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Edit.razor",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Edit.razor",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Edit.razor",
+              "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:20:30.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Create.razor",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Create.razor",
+              "ToolTip": "C:\\Users\\Jeorge Oliver\\source\\GitProjects\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Create.razor",
+              "RelativeToolTip": "HR.LeaveManagement.BlazorUI\\Pages\\LeaveTypes\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:17:26.947Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,17 @@
+﻿@page "/leavetypes/create"
+@attribute [Authorize(Roles = "Administrator")]
+<h3>Create</h3>
+
+@if (string.IsNullOrEmpty(Message) == false)
+{
+    <div class="alert alert-danger">
+        @Message
+    </div>
+    
+}
+
+<FormComponent ButtonText="Create" LeaveType="leaveType" onValidSubmit="@CreateLeaveType"></FormComponent>
+
+@code {
+
+}

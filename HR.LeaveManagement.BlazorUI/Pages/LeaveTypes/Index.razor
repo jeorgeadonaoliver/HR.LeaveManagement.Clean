@@ -45,17 +45,24 @@ else
                     <td>@leavetype.Name</td>
                     <td>@leavetype.DefaultDays</td>
                     <td>
-                        <button @onclick=@(() => AllocateLeaveType(leavetype.Id))
-                            class="btn btn-dark">Allocate Leave
-                        </button>
-                        <button @onclick=@(() => EditLeaveType(leavetype.Id))
-                                class="btn btn-primary"> Edit
-                        </button>
+                        <AuthorizeView Roles="Administrator">
+                            <button @onclick=@(() => AllocateLeaveType(leavetype.Id))
+                                    class="btn btn-dark">
+                                Allocate Leave
+                            </button>
+                            <button @onclick=@(() => EditLeaveType(leavetype.Id))
+                                    class="btn btn-primary">
+                                Edit
+                            </button>
+                           
+                            <button @onclick=@(() => DeleteLeaveType(leavetype.Id))
+                                    class="btn btn-danger">
+                                Delete
+                            </button>
+                        </AuthorizeView>
                         <button @onclick=@(() => DetailsLeaveType(leavetype.Id))
-                                class="btn btn-secondary"> Details
-                        </button>
-                        <button @onclick=@(() => DeleteLeaveType(leavetype.Id))
-                                class="btn btn-danger"> Delete
+                                class="btn btn-secondary">
+                            Details
                         </button>
                     </td>
                 </tr>    
